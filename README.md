@@ -49,7 +49,7 @@ Select a project from the following list.
   - [Octasol](https://github.com/octasol/octasol) : (Nextjs)
   - [USA Sales Tax API](https://github.com/A91y/USASalesTaxAPI) : (Django)
   - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
-  - [HelpU](https://github.com/RyanWalker277/HelpU)
+  - [PRISTINE](https://github.com/gamandeepsingh/PRISTINE) : (React)
  
 - 🐍 Python & Data
   - [Gesture Control Gaming](https://github.com/ambuj-1211/Gesture-Controlled-Game)
