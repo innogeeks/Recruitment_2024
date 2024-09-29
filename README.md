@@ -28,6 +28,7 @@ Select a project from the following list.
 - [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks) (Unity 3D)
 - [Spotify Clone](https://github.com/arjit1704/Spotify_Clone) : (HTML, CSS, JS)
 - [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
+- [Blinks by Ayush](https://github.com/A91y/blinks) : (Nextjs)
 
 
 ### **Intermediate**
@@ -45,6 +46,7 @@ Select a project from the following list.
   - [Go Green](https://github.com/ShubhAgarwal0704/Gogreen)
  
 - 🌐 Web Development
+  - [Octasol](https://github.com/octasol/octasol)
   - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
   - [HelpU](https://github.com/RyanWalker277/HelpU)
  
@@ -52,5 +54,11 @@ Select a project from the following list.
   - [Gesture Control Gaming](https://github.com/ambuj-1211/Gesture-Controlled-Game)
   - [Alien Invansion](https://github.com/enrich4real/Alien_Invasion) 
 
-
+- ⛓️ Blockchain
+  - [ERC20Launcher](https://github.com/A91y/erc20launcher)
+  - [Svault](https://github.com/A91y/svault)
+  - [Mintok](https://github.com/A91y/mintok)
+  - [Transol](https://github.com/A91y/transol) `(Beginner)`
+  - [NFT Staking (Solana)](https://github.com/A91y/nft-staking) `Advanced`
+  
 ## All the best!👍
