@@ -46,7 +46,8 @@ Select a project from the following list.
   - [Go Green](https://github.com/ShubhAgarwal0704/Gogreen)
  
 - 🌐 Web Development
-  - [Octasol](https://github.com/octasol/octasol)
+  - [Octasol](https://github.com/octasol/octasol) : (Nextjs)
+  - [USA Sales Tax API](https://github.com/A91y/USASalesTaxAPI) : (Django)
   - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
   - [HelpU](https://github.com/RyanWalker277/HelpU)
  
