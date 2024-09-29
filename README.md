@@ -59,6 +59,6 @@ Select a project from the following list.
   - [Svault](https://github.com/A91y/svault)
   - [Mintok](https://github.com/A91y/mintok)
   - [Transol](https://github.com/A91y/transol) `(Beginner)`
-  - [NFT Staking (Solana)](https://github.com/A91y/nft-staking) `Advanced`
+  - [NFT Staking (Solana)](https://github.com/A91y/nft-staking) `(Advanced)`
   
 ## All the best!👍
