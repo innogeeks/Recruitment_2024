@@ -25,7 +25,7 @@ Select a project from the following list.
 - [PillTrakr](https://github.com/gamandeepsingh/pillTrakr) : (HTML, CSS, JS)
 - [truWeather](https://github.com/1010varun/weather-app) : (HTML, Tailwind CSS, JS)
 - [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
-- [Innogeeks AR Poster](https://github.com/devAyushDubey/ARPoster2021_Innogeeks) (Unity 3D)
+- [AR Poster](https://github.com/any-mesh/AR-Poster) (Unity 3D)
 - [Spotify Clone](https://github.com/arjit1704/Spotify_Clone) : (HTML, CSS, JS)
 - [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
 - [Blinks by Ayush](https://github.com/A91y/blinks) : (Nextjs)
@@ -34,7 +34,7 @@ Select a project from the following list.
 ### **Intermediate**
 
 - 🥽 Augmented/ Virtual Reality:
-  - [VRYoga](https://github.com/devAyushDubey/VRYoga)
+  - [Asteroid Shooter](https://github.com/any-mesh/AR-Asteroid-Shooter)
   - [Electro World](https://github.com/Anupam1603/ElectroWorld)
  
 - 📱 Android Development:
