@@ -23,12 +23,12 @@ Select a project from the following list.
 ### **Beginner**
 
 - [PillTrakr](https://github.com/gamandeepsingh/pillTrakr) : (HTML, CSS, JS)
+- [Ecotrend](https://github.com/gamandeepsingh/EcoTrend.git) : (HTML, CSS, JS)
 - [truWeather](https://github.com/1010varun/weather-app) : (HTML, Tailwind CSS, JS)
 - [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
-- [AR Poster](https://github.com/any-mesh/AR-Poster) (Unity 3D)
 - [Spotify Clone](https://github.com/gamandeepsingh/asset-roster-new) : (React JS)
 - [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
-- [Blinks by Ayush]([https://github.com/A91y/blinks](https://github.com/gamandeepsingh/EcoTrend.git)) : (HTML, CSS, JS)
+- [AR Poster](https://github.com/any-mesh/AR-Poster) (Unity 3D)
 
 
 ### **Intermediate**
