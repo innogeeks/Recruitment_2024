@@ -26,9 +26,9 @@ Select a project from the following list.
 - [truWeather](https://github.com/1010varun/weather-app) : (HTML, Tailwind CSS, JS)
 - [QR Convertor](https://github.com/1010varun/qr-convertor) : (React)
 - [AR Poster](https://github.com/any-mesh/AR-Poster) (Unity 3D)
-- [Spotify Clone](https://github.com/arjit1704/Spotify_Clone) : (HTML, CSS, JS)
+- [Spotify Clone](https://github.com/gamandeepsingh/asset-roster-new) : (React JS)
 - [Text Edits](https://github.com/arjit1704/TextEdits) : (Django)
-- [Blinks by Ayush](https://github.com/A91y/blinks) : (Nextjs)
+- [Blinks by Ayush]([https://github.com/A91y/blinks](https://github.com/gamandeepsingh/EcoTrend.git)) : (HTML, CSS, JS)
 
 
 ### **Intermediate**
@@ -48,7 +48,7 @@ Select a project from the following list.
 - 🌐 Web Development
   - [Octasol](https://github.com/octasol/octasol) : (Nextjs)
   - [USA Sales Tax API](https://github.com/A91y/USASalesTaxAPI) : (Django)
-  - [EcoJoy](https://github.com/RyanWalker277/EcoJoy)
+  - [EcoJoy](https://github.com/gamandeepsingh/LeARn) : (React)
   - [PRISTINE](https://github.com/gamandeepsingh/PRISTINE) : (MERN)
  
 - 🐍 Python & Data
