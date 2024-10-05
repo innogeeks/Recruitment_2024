@@ -40,8 +40,6 @@ Select a project from the following list.
 - 📱 Android Development:
   - [GoFit](https://github.com/ShubhAgarwal0704/go-fit-task)
   - [ToDo](https://github.com/ShubhAgarwal0704/task_tracking_app)
-  - [Pehchan - A Phonebook App](https://github.com/soumenkp2/Pehchaan)
-  - [Resume Builder](https://github.com/soumenkp2/resume_builder)
   - [Flutter Eventifyer](https://github.com/rachit-goyal1071/flutter-eventifyer)
   - [Go Green](https://github.com/ShubhAgarwal0704/Gogreen)
  
